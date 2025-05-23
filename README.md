@@ -1,42 +1,10 @@
 # work-portfolio
-# Career Counselling
 
-## Evidence
-I participated in a career counselling workshop focused on ICT career paths. Below is the video summary of the session:
 
-[Watch the video](https://link-to-my-video.com)
+> Submitted by: [Olwethu Tshingo ]  
+> Student Number: [222634383]  
+> Date: 22 May 2025
 
-## Reflection (STAR)
-
-**S**: I attended a university career counselling session in March 2025.
-
-**T**: My task was to identify my ideal career path based on my interests and skills.
-
-**A**: I took part in several activities, including personality tests and group discussions.
-
-**R**: I realized I am strongly aligned with roles in software development and project management.
-
-# Digital Portfolio – PRP370S (June 2025)
-
-This repository contains my digital portfolio for the Project Presentation 3 (PRP370S) assessment. The portfolio showcases my career development, skills, and reflections based on the work readiness training received.
-
-## Contents
-
-- Career Counselling
-- Skills and Interests
-- Personality Assessment
-- Curriculum Vitae (CV)
-- CV Submission
-
-Each section includes evidence and a structured reflection using the STAR technique.
-
-> Submitted by: [Your Name]  
-> Student Number: [Your Student Number]  
-> Date: May 2025
-🧷 career-counselling.md
-markdown
-Copy
-Edit
 # Career Counselling
 
 ## Reflection (STAR)
@@ -48,10 +16,7 @@ Edit
 **A**: I engaged in assessments, discussions, and created a personal development plan.
 
 **R**: I gained clarity on my career goals and decided to pursue a role in systems analysis.
-🧷 skills-interests.md
-markdown
-Copy
-Edit
+
 
 # Skills and Interests
 
@@ -64,3 +29,42 @@ Edit
 **A**: I honestly assessed my competencies using a guided framework.
 
 **R**: I found strong skills in coding and leadership, and a passion for mobile app development.
+
+
+# Personality Assessment
+
+## Reflection (STAR)
+
+**S**: We took a personality test to understand our work traits.
+
+**T**: My task was to interpret my results and connect them to career decisions.
+
+**A**: I discussed my results with a counsellor and took notes on how it applies to team roles.
+
+**R**: My ENFJ result highlighted my strengths in communication and leadership, suitable for project management.
+
+
+# Create a CV
+
+## Reflection (STAR)
+
+**S**: We were asked to draft a CV suitable for job applications in our field.
+
+**T**: I needed to showcase my experience and education clearly and professionally.
+
+**A**: I used a structured format, followed best practices, and got feedback from a mentor.
+
+**R**: My CV is now tailored for software development roles and ready for submission.
+
+
+# CV Submission
+
+## Reflection (STAR)
+
+**S**: The final step was submitting our CV to demonstrate readiness for the job market.
+
+**T**: I had to ensure that all details were correct and that my CV was well-presented.
+
+**A**: I reviewed my CV, double-checked the requirements, and submitted on time.
+
+**R**: I received a confirmation email and feel prepared for internship and job applications.
